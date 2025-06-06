@@ -117,10 +117,17 @@ footer {
   }
 }
 
-img {
-  size-adjust: 10%;
-}
+
 
 .logo2 {
   width: 390px;
+}
+
+img {
+  width: 200px;
+}
+
+img {
+  width: 300px;
+
 }
